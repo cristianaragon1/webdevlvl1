@@ -1,0 +1,17 @@
+img {
+    margin: 10px;
+    border: dashed;
+    border-color: #009506;
+    
+}
+h1 {
+    font-family: cursive;
+    background-color: #22806f;
+    text-align: center;
+}
+body{
+    background-color: #720400; 
+}
+ul {
+    font-family: fantasy;
+}

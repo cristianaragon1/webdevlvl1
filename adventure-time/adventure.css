@@ -1,0 +1,14 @@
+#adventure-time {
+    background-color: black;
+    width: 550px;
+    margin: auto;
+    border-radius: 5px;
+    border: 6px double white;
+}
+#adventure-time img {
+    margin: auto;
+    width: 90%;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+}
